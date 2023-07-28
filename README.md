@@ -14,7 +14,7 @@ The `Data` directory contains the script used to convert the pcap files into ima
 
 ### Classification Model Directory
 
-The `Classification Model` directory contains the Jupyter notebook used to train the classification model. The model training was originally performed on Google Colab to take advantage of its enhanced training capabilities. The notebook outlines the process of fine-tuning the ResNet18 model using the timm library on our dataset.
+The `Classification Model` directory contains the Jupyter notebook used to train the classification model. The model training was originally performed on Google Colab to take advantage of its enhanced training capabilities. The notebook outlines the process of fine-tuning the ResNet18 model using the timm library on our dataset. The image data csv's were removed from the Classification_Model directory.
 
 ## Model Performance
 
