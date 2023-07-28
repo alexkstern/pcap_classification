@@ -18,7 +18,7 @@ The `Classification Model` directory contains the Jupyter notebook used to train
 
 ## Model Performance
 
-After training the classification model, we achieved good results, obtaining 1.0 accuracy and F1 score on the test set. These perfect results demonstrate the efficacy of our approach to classify pcap files using their image representations. The image-based approach has proven to be highly accurate and efficient in distinguishing between high and low priority traffic in pcap files generated from sensor data in a simulated environment.
+After training the classification model, we achieved good results, obtaining 1.0 accuracy and F1 score on the validation dataset. These perfect results demonstrate the efficacy of our approach to classify pcap files using their image representations. The image-based approach has proven to be highly accurate and efficient in distinguishing between high and low priority traffic in pcap files generated from sensor data in a simulated environment.
 
 By leveraging image representation techniques and deep learning models, we have showcased a robust solution for PCAP classification. The trained model can be further extended and adapted for real-world applications in network traffic analysis, intrusion detection, and various other domains where prioritizing PCAP files is crucial.
 
